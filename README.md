@@ -2,13 +2,13 @@
 
 Repositório destinado a conter ideias para projetos que podemos utilizar para estudos, aperfeiçoamento, ou aprendizado de novas tecnologias ou recursos.
 
-### Qual oo objetivo do repositório?
+### Qual o objetivo do repositório?
 
 Centralizar ideias para auxiliar nos estudos e prática no desenvolvimento de software.
 
 ### A quem pertence a ideia?
 
-Após a inclusão da ideia, conceito e materiais auxiliares é tido como aberta e de uso permitido a todos que desejaram, entretanto é mantido o nome da pessoa que trouxe a ideia, para que seja reconhecida.
+Após a inclusão da ideia, conceito e materiais auxiliares, é tido como aberta e de uso permitido a todos que desejaram, entretanto é mantido o nome da pessoa que trouxe a ideia, para que seja reconhecida.
 
 Para ideias que se assemelham com produtos de empresas conhecidas como, Instagram, Twitter, Facebook ou qualquer ideia que vá de encontro com redes sociais que são conhecidas é apenas para prática e estudo de tecnologia, e não na criação de cópias para serem lançadas no mercado.
 
@@ -28,6 +28,7 @@ Abaixo segue lista com pessoas que colaboraram com ideias de projetos.
 
 Caso deseje incluir seu nome, basta enviar um pull request, informando o link da isseu e a inclusão do seu nome, mantendo ordem alfabética.
 
+- [Claudson Oliveira](http://github.com/cloudson)
 - [Diego Brocanelli](https://www.diegobrocanelli.com.br/)
 
 ### Licença
